@@ -26,6 +26,7 @@ import (
     "github.com/op/go-logging"
 )
 
+
 var myLogger = logging.MustGetLogger("asset_mgm")
 
 // AssetManagementChaincode is simple chaincode implementing a basic Asset Management system
